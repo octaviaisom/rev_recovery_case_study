@@ -1,6 +1,4 @@
 # Revenue Recovery Analysis for a Consumer Electronics Retailer
-
-## Diagnosing revenue underperformance across customer activity, product mix, and category-level recovery opportunities
 This project is a business analytics case study focused on diagnosing revenue underperformance for a consumer electronics retailer. The analysis investigates what changed in the retailer’s revenue engine, identifies the strongest drivers of decline, and translates those findings into strategic recovery recommendations.
 
 My goal for this project was to show not only technical abilities, but strategic judgment: knowing what to analyze, what not to overstate, and how to turn complex data into decisions leaders can act on.
@@ -61,7 +59,6 @@ Rather than overextend the analysis into areas the data could not fully support,
 | **Visual Studio Code** | Code development, notebook editing, project organization |
 | **Canva**            | Final presentation design and hosting                                      |
 | **GitHub**           | Repository hosting, project documentation, and portfolio sharing                     |
-|                      |                                                                                      |
 
 
 ### AI Usage Disclosure
