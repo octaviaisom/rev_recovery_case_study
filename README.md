@@ -3,7 +3,9 @@ This project is a business analytics case study focused on diagnosing revenue un
 
 My goal for this project was to show not only technical abilities, but strategic judgment: knowing what to analyze, what not to overstate, and how to turn complex data into decisions leaders can act on.
 
+<br> 
 ---
+<br>
 
 ## Project Links
 
@@ -11,7 +13,9 @@ My goal for this project was to show not only technical abilities, but strategic
 * **Source Data:** [Maven Analytics' Gllobal Electronica Retailer dataset](https://mavenanalytics.io/data-playground/global-electronics-retailer) (adjusted as described below)
 * **Technical Notebook:** `main.ipynb`
 
+<br> 
 ---
+<br>
 
 ## Executive Summary
 
@@ -21,9 +25,8 @@ The main finding was that the revenue decline was **more activity-driven than ma
 
 The clearest recovery opportunity was **Home Appliances**. This category showed severe declines across revenue, customers, orders, quantity sold, subcategory performance, and Q4 momentum. Historical Home Appliances customers were also largely inactive in 2025, suggesting a potential reactivation and cross-sell opportunity.
 
-###
 
----
+
 
 
 ## Dataset Source and Analytical Reframing
@@ -44,7 +47,7 @@ That was an intentional scope decision as well. The dataset did not include enou
 
 Rather than overextend the analysis into areas the data could not fully support, I focused the case study on the areas where the data was strongest.
 
----
+
 
 ## Tools and Technologies
 
@@ -65,7 +68,7 @@ Rather than overextend the analysis into areas the data could not fully support,
 
 For this project, AI  supported coding efficiency and with standardizing comments/documentation. I used AI only to accelerate execution while maintaining full responsibility for the logic, conclusions, and final deliverables.
 
----
+
 
 ## Repository Structure
 
